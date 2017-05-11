@@ -1,0 +1,14 @@
+.imgNewsContainer{
+    float: left;
+    margin-right:7px ;
+    margin-bottom:10px
+}
+.imgNewsContainer h3{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666;
+}
+
+
+

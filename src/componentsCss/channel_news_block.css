@@ -1,0 +1,20 @@
+.channelNews{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.channelNews img{
+    width: 300px;
+}
+.channelNews div{
+    margin-left: 15px;
+}
+.channelNews a{
+    font-size: 18px;
+}
+.channelNews p{
+    margin-top: 50px;
+}
+.channelNews span{
+    display: block;
+}
